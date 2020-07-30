@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-root 'application#cool greeting'
+root 'application#cool_greeting'
 end
